@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>CUMSA</title>
+    <link href="https://cumsa.github.io/cumsa.org/feed.xml" rel="self" />
+    <link href="https://cumsa.github.io/cumsa.org" />
+    <updated>2024-10-22T22:52:25+01:00</updated>
+    <author>
+        <name>Zeyu</name>
+    </author>
+    <id>https://cumsa.github.io/cumsa.org</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Zeyu</name>
+        </author>
+        <link href="https://cumsa.github.io/cumsa.org/test.html"/>
+        <id>https://cumsa.github.io/cumsa.org/test.html</id>
+
+        <updated>2024-10-22T22:44:05+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
