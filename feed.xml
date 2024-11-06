@@ -3,29 +3,32 @@
     <title>CUMSA</title>
     <link href="https://cumsa.github.io/cumsa.org/feed.xml" rel="self" />
     <link href="https://cumsa.github.io/cumsa.org" />
-    <updated>2024-10-22T22:52:25+01:00</updated>
+    <updated>2024-11-06T16:04:02+00:00</updated>
     <author>
         <name>Zeyu</name>
     </author>
     <id>https://cumsa.github.io/cumsa.org</id>
 
     <entry>
-        <title>Test</title>
+        <title>Cambridge University Malaysia and Singapore Association</title>
         <author>
             <name>Zeyu</name>
         </author>
-        <link href="https://cumsa.github.io/cumsa.org/test.html"/>
-        <id>https://cumsa.github.io/cumsa.org/test.html</id>
+        <link href="https://cumsa.github.io/cumsa.org/about-cumsa.html"/>
+        <id>https://cumsa.github.io/cumsa.org/about-cumsa.html</id>
+        <media:content url="https://cumsa.github.io/cumsa.org/media/posts/5/photo_2024-11-06-16.03.29.jpeg" medium="image" />
 
-        <updated>2024-10-22T22:44:05+01:00</updated>
+        <updated>2024-11-06T15:59:17+00:00</updated>
             <summary>
                 <![CDATA[
-                    Test
+                        <img src="https://cumsa.github.io/cumsa.org/media/posts/5/photo_2024-11-06-16.03.29.jpeg" alt="" />
+                    Hello world
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Test</p>
+                    <p><img src="https://cumsa.github.io/cumsa.org/media/posts/5/photo_2024-11-06-16.03.29.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Hello world</p>
             ]]>
         </content>
     </entry>
